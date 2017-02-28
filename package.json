@@ -1,0 +1,22 @@
+{
+  "name": "dfsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangramsam/shopingcart.git"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangramsam/shopingcart/issues"
+  },
+  "homepage": "https://github.com/sangramsam/shopingcart#readme"
+}
